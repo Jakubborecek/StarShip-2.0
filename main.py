@@ -262,7 +262,7 @@ def zaklad():
     rychlost_laseru_bossa = 25
     pocet_bossov = 0
 
-    hrac = Hrac(960, 850)  # suradnice zobrazenia mojej lode
+    hrac = Hrac(960, 850) 
 
     clock = pygame.time.Clock()
 
